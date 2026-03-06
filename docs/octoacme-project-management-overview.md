@@ -20,6 +20,19 @@ Applies to all cross-functional projects that deliver product features, services
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
 
+## Extended Roles
+Cross-functional projects often include additional specialists. Full descriptions and interaction notes are in [OctoAcme Personas](octoacme-roles-and-personas.md).
+
+- Business Analyst (BA): gathers and refines requirements; bridges business needs and technical solutions.
+- Scrum Master (SM): coaches agile practices, facilitates ceremonies, removes impediments.
+- UX Designer: designs user experiences; ensures features meet user needs through research and prototyping.
+- Release Manager: coordinates releases; owns readiness reviews, deployment scheduling, and release communications.
+- Customer Success: captures customer feedback and drives adoption; provides PM/PdM with usage insights.
+- Systems Architect: owns high-level technical design; ensures scalability, security, and architectural integrity.
+- Data Analyst: tracks metrics and analyzes outcomes; informs evidence-based prioritization and retrospectives.
+
+For a cross-role accountability view across lifecycle phases, see the [Roles & Interaction Guide (RACI)](octoacme-roles-and-personas-raci.md).
+
 ## Key Artifacts
 - Project Charter / One-pager
 - Roadmap and Release Plan
